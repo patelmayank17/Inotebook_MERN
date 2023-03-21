@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inotebook_MERN/static/css/main.da1b63f4.css",
+    "main.js": "/Inotebook_MERN/static/js/main.50a4c5e8.js",
+    "static/js/787.90f54994.chunk.js": "/Inotebook_MERN/static/js/787.90f54994.chunk.js",
+    "index.html": "/Inotebook_MERN/index.html",
+    "main.da1b63f4.css.map": "/Inotebook_MERN/static/css/main.da1b63f4.css.map",
+    "main.50a4c5e8.js.map": "/Inotebook_MERN/static/js/main.50a4c5e8.js.map",
+    "787.90f54994.chunk.js.map": "/Inotebook_MERN/static/js/787.90f54994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da1b63f4.css",
+    "static/js/main.50a4c5e8.js"
+  ]
+}
